@@ -1,2 +1,3 @@
-# E_Shop
- Flutter E-Commerce App
+# e_shop
+
+A new Flutter project.
